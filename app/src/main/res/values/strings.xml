@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Soal2</string>
+    <string name="silahkan_masukkan_nomor_hp_kamu_yang_terdaftar">Silahkan Masukkan Nomor Hp Kamu yang terdaftar</string>
+    <string name="nomor_hp">Nomor Hp</string>
+    <string name="masukkan_nomor_hp">Masukkan Nomor Hp</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="masukkan_6_kode_yang_telah_diterima_via_sms_ke_nomor_yang_telah_anda_masukkan">Masukkan 6 Kode yang telah diterima via SMS ke nomor yang telah Anda masukkan</string>
+    <string name="code">code</string>
+    <string name="salah_no_hp">Salah No. Handphone?</string>
+    <string name="konfirmasi">Konfirmasi</string>
+    <string name="ubah_no_handphone">Ubah No. Handphone</string>
+    <string name="no_rekam_medis">No. Rekam Medis</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="email">Email</string>
+    <string name="simpan">Simpan</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="selamat_pagi">Selamat Pagi,</string>
+    <string name="informasi_rumah_sakit">Informasi Rumah Sakit</string>
+    <string name="_2018_05_12_13_05">2018-05-12 13:05</string>
+    <string name="message">Message</string>
+    <string name="_12_05_2018_16_22">12-05-2018 16:22</string>
+</resources>
